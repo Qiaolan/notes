@@ -1,3 +1,3 @@
 # notes
 
-Anything about statistics. $\epsilon$
+Anything about statistics. $\alpha$
